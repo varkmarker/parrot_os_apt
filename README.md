@@ -1,5 +1,7 @@
 [ 1 ] First step is to install the requirement's
 
+$ cd parrot_os_apt
+
 $ pip install requirement.txt -t .
 
 [ 2 ] Second run the python3 file using the below command
